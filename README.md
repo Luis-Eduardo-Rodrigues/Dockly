@@ -14,4 +14,4 @@ Escreva o stack que você deseja e o Dockly monta o ambiente completo pra você 
 ## Exemplo de Uso
 - "Preciso de um ambiente React + Node.js + MongoDB"
 - O Dockly retorna:
-<img src="exemplo.png" width="200" height="300"/>
+<img src="exemplo.png" width="400" height="500"/>
