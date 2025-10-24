@@ -35,5 +35,3 @@ export const deleteCompose = async (req, res) => {
     console.log(error);
   }
 };
-
-// docker exec -it dockly_db psql -U admin -d dockly
