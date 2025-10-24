@@ -17,18 +17,18 @@ Escreva o stack que você deseja e o Dockly monta o ambiente completo pra você 
 <img src="exemplo.png" width="400" height="500"/>
 
 ## Interface
-
+## Login
 <img src="login.png" width="400" height="500"/>
-
+## Cadastrar
 <img src="criarconta.png" width="400" height="500"/>
-
+## Dashboard
 <img src="dashboard.png" width="600" height="550"/>
-
+## Histórico
 <img src="historico.png" width="600" height="550"/>
-
+## Planos
 <img src="planos.png" width="600" height="550"/>
 
 ## Como funciona?
-### Quando você se cadastra, você recebe 3 tickets para testar e usar como quiser
+### Quando você se cadastra, você recebe 3 tickets para testar e usar como quiser.
 ### Gere seus primeiros arquivos `docker-compose.yml`.
 ### Recarregue seus tickets quando acabar clicando em "Tickets".
