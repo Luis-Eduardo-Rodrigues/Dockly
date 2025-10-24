@@ -15,6 +15,30 @@ Escreva o stack que você deseja e o Dockly monta o ambiente completo pra você 
 
 ---
 
+## Exemplo de Uso
+
+- " Preciso de um ambiente React + Node.js + MongoDB"
+- O Dockly retorna
+- version: "3.8"
+
+services:
+  app:
+    image: node:18
+    working_dir: /app
+    volumes:
+      - .:/app
+    ports:
+      - "3000:3000"
+    command: npm start
+
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - "27017:27017"
+
+## Simples assim.
+
 ## ⚡ Tecnologias Utilizadas
 
 | Camada | Tecnologias |
