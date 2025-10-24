@@ -19,12 +19,16 @@ Escreva o stack que você deseja e o Dockly monta o ambiente completo pra você 
 ## Interface
 ## Login
 <img src="login.png" width="400" height="500"/>
+
 ## Cadastrar
 <img src="criarconta.png" width="400" height="500"/>
+
 ## Dashboard
 <img src="dashboard.png" width="600" height="550"/>
+
 ## Histórico
 <img src="historico.png" width="600" height="550"/>
+
 ## Planos
 <img src="planos.png" width="600" height="550"/>
 
