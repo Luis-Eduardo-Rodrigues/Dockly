@@ -29,5 +29,6 @@ Escreva o stack que você deseja e o Dockly monta o ambiente completo pra você 
 <img src="planos.png" width="600" height="550"/>
 
 ## Com0 funciona?
--- Quando você se cadastra, você recebe 3 tickets para testar e usar como quiser. Gere seus primeiros arquivos `docker-compose.yml`.
+-- Quando você se cadastra, você recebe 3 tickets para testar e usar como quiser
+-- Gere seus primeiros arquivos `docker-compose.yml`.
 -- Recarregue seus tickets quando acabar clicando em "Tickets".
